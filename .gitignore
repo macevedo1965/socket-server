@@ -1,0 +1,28 @@
+# Logs and temporary files
+*.log
+*.tmp
+temp/
+logs/
+
+# Build artifacts and compiled code
+build/
+dist/
+target/
+*.class
+*.jar
+*.exe
+
+# Dependency directories
+node_modules/
+vendor/
+
+# Environment variables and secrets
+.env
+.DS_Store # macOS specific
+Thumbs.db # Windows specific
+
+# IDE and editor specific files
+.idea/
+.vscode/
+*.swp
+*.bak
